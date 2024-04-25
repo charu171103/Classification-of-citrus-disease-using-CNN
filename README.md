@@ -5,7 +5,9 @@ This project aims to classify citrus fruit diseases using Convolutional Neural N
 
 *Dataset*
 
-The dataset used for training and testing the model is obtained from Dataset for Classification of Citrus Diseases on Kaggle. It consists of images of citrus fruits categorized into two classes: Blackspot and Canker.
+The dataset used for training and testing the model is obtained from Dataset for Classification of Citrus Diseases on Kaggle. It consists of images of citrus fruits categorized into two classes: Blackspot and Canker.This dataset is by Jeremiah Harmsen on Kaggle.
+
+>> Link:https://www.kaggle.com/datasets/jonathansilva2020/dataset-for-classification-of-citrus-diseases
 
 
 *Model Architecture*
@@ -28,8 +30,4 @@ The CNN model architecture consists of several convolutional layers followed by 
 
 After training the model for a certain number of epochs, the training and validation accuracy and loss are plotted to visualize the training progress and performance.
 
-
-Dataset: Dataset for Classification of Citrus Diseases by Jeremiah Harmsen on Kaggle.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
